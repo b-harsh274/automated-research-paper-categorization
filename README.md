@@ -59,7 +59,7 @@ This demonstrates strong performance across all 57 multi-class labels.
 
 **Harsh Balgude**  
 Email: [harshbalgude@gmail.com](mailto:harshbalgude@gmail.com)  
-GitHub: [harshbalgude](https://github.com/harshbalgude)
+GitHub: [b-harsh274](https://github.com/b-harsh274)
 
 ---
 
