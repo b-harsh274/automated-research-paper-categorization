@@ -55,9 +55,19 @@ This demonstrates strong performance across all 57 multi-class labels.
 
 ---
 
-## ⚙️ Installation
+## 👤 Author
 
-```bash
-git clone https://github.com/<your-username>/automated-paper-categorization.git
-cd automated-paper-categorization
-pip install -r requirements.txt
+**Harsh Balgude**  
+Email: [harshbalgude@gmail.com](mailto:harshbalgude@gmail.com)  
+GitHub: [harshbalgude](https://github.com/harshbalgude)
+
+---
+
+## 🙏 Acknowledgements
+
+Originally developed as part of a collaborative group project.  
+Special thanks to:
+
+- **Krishna Mahalka**  
+- **Rahul Jat**
+
